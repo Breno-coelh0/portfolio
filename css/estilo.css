@@ -82,7 +82,7 @@ nav ul li a:hover {
 .home .perfil ul {
     display: flex;
     gap: 20px;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 .home .perfil ul i {
